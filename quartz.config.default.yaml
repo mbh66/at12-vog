@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Valley of Grace BioHub
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: quartz.jzhao.xyz
+  baseUrl: at12-vog.bioconomy.earth
   ignorePatterns:
     - private
     - templates
@@ -203,8 +203,8 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        Overberg BioRegion: https://at12-overberg.bioconomy.earth
+        GitHub: https://github.com/mbh66/at12-vog
     layout:
       position: footer
       priority: 50
